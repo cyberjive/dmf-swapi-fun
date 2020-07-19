@@ -1,0 +1,12 @@
+# py files
+*__pycache__*
+*.pytest_cache*
+
+# vscode specific files
+.vscode/*
+
+# code coverage output
+.coverage
+htmlcov*
+
+
